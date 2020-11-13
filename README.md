@@ -1,3 +1,5 @@
+## This repository holds the pre-peer reviewed manuscript of research submitted to the journal of Ecosystem Services
+
 ## Modeling the Current and Future Ecosystem Services of Urban Tree Planting in Chicopee and Fall River, Massachusetts
 ### Rowan Moody, Nicholas Geron, Marc Healy, Dr. John Rogan, Dr. Deborah Martin
 Abstract: Mature urban tree canopy cover disrupts local effects of urban heat islands and
