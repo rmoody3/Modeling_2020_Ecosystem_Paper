@@ -2,21 +2,5 @@
 
 ## Modeling the Current and Future Ecosystem Services of Urban Tree Planting in Chicopee and Fall River, Massachusetts
 ### Rowan Moody, Nicholas Geron, Marc Healy, Dr. John Rogan, Dr. Deborah Martin
-Abstract: Mature urban tree canopy cover disrupts local effects of urban heat islands and
-provides ecosystem services such as energy savings through direct and indirect
-shading, pollution removal, storm runoff control, and carbon sequestration. This study
-addresses the gap in research regarding the value of energy savings provided by
-juvenile trees, how that value changes considering predicted tree growth and mortality
-by 2050, as well as the spatial distribution of ecosystem services. Using i-Tree Eco
-software, this study models the current and future ecosystem services provided to
-residents based on a juvenile tree inventory of 2,271 street and residential trees
-planted from 2014 through 2015 by the Greening the Gateway Cities Program (GGCP)
-in Chicopee and Fall River, MA. Juvenile trees planted by the DCR provided $775 and
-$1,512 (2018) in annual ecosystem service savings in Chicopee and Fall River while
-GGCP Trees modeled to mature conditions show exponentially increased total annual
-savings of $2,294 and $4,401 in Chicopee and Fall River (2050). A minimum of two to
-three trees per acre are required to reach maturity in ecosystem provisioning. Results
-of this study reinforce the importance of tree survivorship on sustaining the urban tree
-canopy to provide ecosystem services.
-
-Energy savings; i-Tree Eco; urban forests; ecosystem services
+Abstract: Mature urban tree canopy cover disrupts the local effects of urban heat islands and provides important ecosystem services such as energy savings through evaporation and shading, pollution removal, storm runoff control, and carbon sequestration. Sustainable urban tree canopy relies on the planting of juvenile trees. Typically, tree planting programs are only evaluated by the number of trees planted and there is a lack of analysis of juvenile trees post-planting. This study examines the value and distribution of energy savings provided by juvenile trees and how that value changes considering predicted tree growth and mortality by 2050. Using i-Tree Eco software, this study models the current and future ecosystem services provided to residents based on a juvenile tree inventory of 2,271 street and residential trees planted in Massachusetts (USA) from 2014-2015 by the Greening the Gateway Cities Program (GGCP) in Chicopee and Fall River, MA. Juvenile trees planted by the GGCP provided $776 and $1,520 (2018) in annual ecosystem service savings in Chicopee and Fall River while services modeled to mature tree 2050 conditions show exponentially increased total annual savings of $2,911 and $5,840 in Chicopee and Fall River (2050). Services were maximized in neighborhoods where large numbers of trees were planted or when right tree right place planting practices were followed. Analysis of the distribution of benefits reveals different planting strategies in Chicopee and Fall River.  Ecosystem services from juvenile trees are concentrated in census block groups with more pre-existing tree canopy cover and lower median income. A tree planting density of two to three trees per acre was able to achieve the largest energy savings. Results of this study reinforce the importance of tree survivorship on sustaining the urban tree canopy to provide ecosystem services.
+Keywords: Energy savings, i-Tree Eco, urban forests, ecosystem services
